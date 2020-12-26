@@ -6,10 +6,19 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="PlayerTimer-common" />
+        <module name="PlayerTimer-bungeecord" />
+        <module name="PlayerTimer-velocity" />
         <module name="src" />
+        <module name="PlayerTimer-spigot" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="PlayerTimer" target="1.5" />
+      <module name="PlayerTimer-bungeecord" target="1.8" />
+      <module name="PlayerTimer-common" target="1.8" />
+      <module name="PlayerTimer-spigot" target="1.8" />
+      <module name="PlayerTimer-velocity" target="1.8" />
       <module name="src" target="1.8" />
     </bytecodeTargetLevel>
   </component>

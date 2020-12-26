@@ -1,0 +1,7 @@
+name: PlayerTimer
+version: ${project.version}
+main: playertimer.playertimer.PlayerTimerSpigot
+api-version: 1.16
+authors: [ Dolphln ]
+description: A plugin to keep track of player's time on the server, and reward them.
+website: dolphln.com

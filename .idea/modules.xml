@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/PlayerTimer.iml" filepath="$PROJECT_DIR$/.idea/PlayerTimer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/PlayerTimer.iml" filepath="$PROJECT_DIR$/src/PlayerTimer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/PlayerTimer-bungeecord/PlayerTimer-bungeecord.iml" filepath="$PROJECT_DIR$/src/PlayerTimer-bungeecord/PlayerTimer-bungeecord.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/PlayerTimer-common/PlayerTimer-common.iml" filepath="$PROJECT_DIR$/src/PlayerTimer-common/PlayerTimer-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/PlayerTimer-spigot/PlayerTimer-spigot.iml" filepath="$PROJECT_DIR$/src/PlayerTimer-spigot/PlayerTimer-spigot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/PlayerTimer-velocity/PlayerTimer-velocity.iml" filepath="$PROJECT_DIR$/src/PlayerTimer-velocity/PlayerTimer-velocity.iml" />
       <module fileurl="file://$PROJECT_DIR$/src/src.iml" filepath="$PROJECT_DIR$/src/src.iml" />
     </modules>
   </component>

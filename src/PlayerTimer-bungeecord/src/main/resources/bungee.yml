@@ -1,0 +1,4 @@
+name: PlayerTimer
+version: ${project.version}
+main: playertimer.playertimer.PlayerTimerBungeeCord
+description: A plugin to keep track of player's time on the server, and reward them.
